@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dylan\\OneDrive\\Documents\\School\\195-WebApp\\Lesson2\\Assignment2Week2\\Assignment2Week2.3.csproj",
-      "projectName": "Assignment2Week2.3",
-      "projectPath": "C:\\Users\\dylan\\OneDrive\\Documents\\School\\195-WebApp\\Lesson2\\Assignment2Week2\\Assignment2Week2.3.csproj",
+      "projectUniqueName": "C:\\Users\\dylan\\OneDrive\\Documents\\School\\195-WebApp\\Lesson2\\Assignment2Week2\\Assignment2Week2.2.csproj",
+      "projectName": "Assignment2Week2.2",
+      "projectPath": "C:\\Users\\dylan\\OneDrive\\Documents\\School\\195-WebApp\\Lesson2\\Assignment2Week2\\Assignment2Week2.2.csproj",
       "packagesPath": "C:\\Users\\dylan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dylan\\OneDrive\\Documents\\School\\195-WebApp\\Lesson2\\Assignment2Week2\\obj\\",
       "projectStyle": "PackageReference",
